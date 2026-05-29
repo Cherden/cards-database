@@ -1,8 +1,10 @@
 import { Serie } from '../interfaces'
 
 const serie: Serie = {
-	name: {},
-	id: 'null'
+	name: {
+		ja: "ブラック・ホワイト"
+	},
+	id: 'bw'
 }
 
 export default serie
