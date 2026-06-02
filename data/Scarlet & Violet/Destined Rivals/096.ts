@@ -116,6 +116,7 @@ const card: Card = {
 		},
 		{
 			type: "holo",
+			stamp: ["pokemon-center"],
 			thirdParty: {
 				cardmarket: 828209,
 			}
