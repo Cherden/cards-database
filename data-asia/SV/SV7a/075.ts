@@ -50,7 +50,7 @@ const card: Card = {
 	rarity: "None",
 
 	thirdParty: {
-		cardmarket: 787607
+		cardmarket: 788048
 	}
 }
 
