@@ -4,10 +4,10 @@ const set: Serie = {
 	id: "lc",
 	name: {
 		en: "Legendary Collection",
-		it: "Richiamo delle Leggende",
-		de: "Ruf der Legenden",
-		es: "Llamada de las Leyendas",
-		fr: "L'Appel des Légendes"
+		it: "Legendary Collection",
+		de: "Legendary Collection",
+		es: "Legendary Collection",
+		fr: "Legendary Collection"
 	},
 }
 
